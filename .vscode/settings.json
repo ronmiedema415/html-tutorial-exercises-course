@@ -4,5 +4,13 @@
     "editor.minimap.enabled": false,
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.editor.autoLockGroups": {
+        "workbench.editor.interactiveSession": true,
+        "jupyter-notebook": true,
+        "workbench.input.interactive": true
+    },
+    "workbench.editor.enablePreview": true
 }
